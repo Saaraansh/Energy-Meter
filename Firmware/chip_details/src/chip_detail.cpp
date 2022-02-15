@@ -3,8 +3,8 @@
 #include<chip_detail.h>
 
 uint32_t chipId = 0;
-const char* ssid = "airtel_148";
-const char* password = "srIshtI@2204";
+const char* ssid = "Enter WIFI name";
+const char* password = "Enter Password";
 
 void Chip()
 {
