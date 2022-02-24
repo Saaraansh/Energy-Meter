@@ -1,4 +1,6 @@
 #include <Arduino.h>
+#include <credentials.h>
+#include <firebase.h>
 #include <zmpt.h>
 
 void setup()
