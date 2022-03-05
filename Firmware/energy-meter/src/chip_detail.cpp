@@ -1,5 +1,3 @@
-#include <Arduino.h>
-#include <WiFi.h>
 #include<chip_detail.h>
 
 uint32_t chipId = 0;
